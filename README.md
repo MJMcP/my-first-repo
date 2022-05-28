@@ -1,7 +1,7 @@
 # My first Repo - working on README file layout
 ## as described in 'Rescue Your Work from Certain Death' video tutorial README.md Files
 
-[Link to the live deployed project should be frist on the content of this page](https://codeinstitute.net)
+[Example of where to place a Link to the live deployed project that should be first on this page](https://codeinstitute.net)
 
 A description of what the site is about (don't forget your screenshots for representations and explanations)
 What your aims are for users (first time, returning, frequent) and what the administrator is looking for 
