@@ -4,19 +4,20 @@
 [Example of where to place a Link to the live deployed project that should be first on this page](https://codeinstitute.net)
 
 A description of what the site is about (don't forget your screenshots for representations and explanations)
-What your aims are for users (first time, returning, frequent) and what the administrator is looking for 
+
+What your aims are for users (first time, returning, frequent) and what the administrator is looking for in terms of functionality
 
 
 what technologies have been used in the creation of this site - what languages, frameworks, libraries and programs used to create items or edit items this would also include visual aids and colour assistants
 
  
-What features you'd like to add.
+What features you'd like to add in future that you didn't have time for or that you may see being required in the future.
 
 
 And, it also gives credit for any code that's been taken from other places,
 such as libraries that you might have imported, or code that you found on Stack Overflow.  Even code that fellow students have helped you with, it's good to credit it here.  
 
-Header examples include 
+Credit Header examples include 
  - CODE  (image godes, library supports, pattern vailidation codes with links to all of the prevelant elements)
  - CONTENT  who supplied the content for the pages, why were these coleours chosen and how, 
  - MEDIA  any images, video or audio should be accredited here
@@ -26,6 +27,12 @@ Header examples include
 It should also contain screenshots of your finished project and details about how you
 tested and deployed the project and also how someone could clone and deploy it for themselves.
 
+### DEPLOYMENT
+git hub pages how it was deployed from there
+how you can fork the repo
+how you can make a local clone
+
+### TESTING
 List the validators who supplied it and provide screenshots either within the doc or by links to the results
 Testing the user storeies from UX section - how did the final product respond to the requirements DON'T BE AFRAID TO MENTION HOW IT DIDN'T
 
@@ -38,8 +45,3 @@ If you want, you can even separate your tests into a TESTING.md file if you want
 things a bit easier to read. A detailed README MD file can really help the reader to get a feel
 for your project and your vision as a developer. It's also essential for your milestone projects!
 
-
-### DEPLOYMENT
-git hub pages how it was deployed from there
-how you can fork the repo
-how you can make a local clone
